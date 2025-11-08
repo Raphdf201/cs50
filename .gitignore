@@ -27,6 +27,7 @@ vendor/
 !*.sql
 !*.ts
 !*.txt
+!*.sb3
 !Makefile
 !.gitignore
 
