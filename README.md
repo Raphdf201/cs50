@@ -1,6 +1,6 @@
 # CS50
-this is my code for the cs50 harvard course
-the simple ones are plain c and the ones that require multiple files are in folders
+
+This is my code for the cs50 harvard course.
 
 ## Links
 
