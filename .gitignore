@@ -7,6 +7,7 @@
 # But do ignore these folders
 node_modules/
 vendor/
+cmake-build-debug/
 
 # But don't ignore these files
 !/.devcontainer.json
