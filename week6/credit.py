@@ -15,6 +15,7 @@ amex_len: Final[int] = 15
 
 inp: str = input("Credit: ")
 
+
 def luhn_validator(card_number: str) -> bool:
     digits = [int(d) for d in card_number]
 
@@ -30,6 +31,7 @@ def luhn_validator(card_number: str) -> bool:
     total = sum_doubled + sum_not_doubled
 
     return total % 10 == 0
+
 
 if not luhn_validator(inp):
     print(invalid)
