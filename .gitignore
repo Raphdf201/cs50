@@ -32,10 +32,3 @@ cmake-build-debug/
 !Makefile
 !.gitignore
 
-# But do ignore these files from movies for now
-**/movies/movies.db
-**/movies/output.txt
-
-# Other ignores
-
-# Ignore files larger than 100M
